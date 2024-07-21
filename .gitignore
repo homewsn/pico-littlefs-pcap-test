@@ -1,0 +1,7 @@
+pico-littlefs-pcap-test
+obj/
+msvs/*.pcap
+msvs/*.user
+msvs/Debug/
+msvs/Release/
+msvs/.vs/
